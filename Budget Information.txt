@@ -1,0 +1,9 @@
+Although it is not wise to jump to conclusions, our budget for this UTRGV Software 
+is very high (i.e. there should be no worry about the costs this program will incur)
+
+Given the lack of information we have about the program we need to create,
+we cannot determine the exact cost to validate the budget amount.
+
+Note that the costs could be higher then intended due to changes that may need
+to be done late in the development cycle. While we would like to avoid this scenario,
+we must prepare for the worst case should it happen
